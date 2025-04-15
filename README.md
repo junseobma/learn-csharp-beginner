@@ -1,6 +1,6 @@
 # Learn C# Beginner
 
-CodeMonkey의 [***Learn C# Beginner FREE Tutorial Course!***](https://www.youtube.com/watch?v=pReR6Z9rK-o&list=PLzDRvYVwl53vxdAPq8OznBAdjf0eeiipT&index=6)를 따라가며 실습한 예제들을 정리한 레포지토리입니다.  
+CodeMonkey의 Youtube 영상 [**Learn C# Beginner FREE Tutorial Course!**](https://www.youtube.com/watch?v=pReR6Z9rK-o&list=PLzDRvYVwl53vxdAPq8OznBAdjf0eeiipT&index=6)를 따라가며 실습한 예제들을 정리한 레포지토리입니다.  
 이를 통해 C# 학습을 체계적으로 정리하고자 합니다.  
 
 > IDE: Visual Studio 2022  
